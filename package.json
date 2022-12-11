@@ -23,7 +23,7 @@
     "dateformat": "^3.0.3",
     "dotenv": "^8.0.0",
     "env": "0.0.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fixer-api": "^2.0.1",
     "handlebars": "^4.4.2",
     "http-status": "^1.3.2",
